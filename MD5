@@ -1,0 +1,14 @@
+d0627dd9281a6a05b054fc36047f6995 *DESCRIPTION
+53cb5ac959868f9844455329e75adb93 *NAMESPACE
+73ffff31b7d55dd6b6ff7ef0cf0b8025 *R/best_EXPAR.R
+8c0be59f1db3fb1b06bec80b9b492ce6 *R/fit_EXPAR.R
+81d0478bc3b45ca34b6d897caaee4817 *R/forecast_EXPAR.R
+5449006c248f7961c5bed9a0a623de44 *R/inital_val.R
+0762637403daaf2983a1fbf2e6bddab7 *R/optimise_EXPAR.R
+860883834f6e8ae0561ba9228fb4b182 *data/egg_price_index.rda
+08f0e5c9874fff17657185e97d58fc59 *man/best_EXPAR.Rd
+c73bcfbf2d0fcf826eee452f66ab6231 *man/egg_price_index.Rd
+d7acea7038445207cd4b88231f8c78a0 *man/fit_EXPAR.Rd
+fbc60a26afec0317cb198f5fee36e17f *man/forecast_EXPAR.Rd
+f16d16ba74f5f620d5ea4323de39b330 *man/inital_val.Rd
+68677a967c11e27429da077d075b24a2 *man/optimise_EXPAR.Rd
